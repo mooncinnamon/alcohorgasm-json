@@ -1,0 +1,10 @@
+{
+  "id": 1,
+  "name": "진토닉",
+  "description": "토닉워터가 비쌀수록 맛있어진다",
+  "technical": "Building",
+  "glassType": "HighBall Glass",
+  "createUser": "",
+  "updateDate": "2020-03-20T00:00:00.000Z",
+  "garnish": "레몬웻지"
+}
